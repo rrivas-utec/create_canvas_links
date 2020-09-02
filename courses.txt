@@ -1,0 +1,7 @@
+access_token:
+<<Access Token from Profile/Configuration/Approved Integrations>>
+course|code|name|section|professor|type|start|end|day|month|year|days_of_week(thursday=1 to wednesday=7)|zoom_url|first_week|last_week
+5648|CS1102|Programación orientada a objectos I|1.08|Rubén Demetrio Rivas Medina|Laboratorio|07:00|09:00|03|09|2020|1,2|https://utec.zoom.us/meeting/register/tJEkcuugqDsjGNXPJUqI0sABO0yf47Pbwbku|1|16
+5657|CS1102|Programación orientada a objectos I|2.06|Rubén Demetrio Rivas Medina|Laboratorio|07:00|09:00|03|09|2020|6,7|https://utec.zoom.us/meeting/register/tJwodO6rqj8uG9WqhgRn01-HDjTGcxGWktJn|1|16
+5660|CS1103|Programación orientada a objectos II|1.01|Rubén Demetrio Rivas Medina||18:00|20:00/21:00|03|09|2020|2,7|https://utec.zoom.us/j/92147712873|1|16
+5661|CS1103|Programación orientada a objectos II|2.01|Rubén Demetrio Rivas Medina||18:00/9:00|20:00/12:00|03|09|2020|1,3|https://utec.zoom.us/j/94406615482|1|16
